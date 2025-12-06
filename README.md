@@ -8,8 +8,13 @@ A classic Snake Game built purely with Vanilla JavaScript, featuring modern UI, 
 ![Game Screenshot](./assets/snakegame.png)
 
 
-## ✨ Features
+## 🚀 Live Demo
 
+👉 Live Demo: [Click Here](https://cyberfortify.github.io/snake-game) 
+
+
+## ✨ Features
+```
 ✔ High Score stored in LocalStorage
 ✔ Food spawn safe (never inside snake)
 ✔ Self-collision detection
@@ -20,7 +25,7 @@ A classic Snake Game built purely with Vanilla JavaScript, featuring modern UI, 
 ✔ Mobile swipe controls
 ✔ On-screen D-pad (bottom-right)
 ✔ Fully responsive
-
+````
 
 ## 🎮 Controls
 
@@ -68,9 +73,6 @@ snake-game/
 ```
 
 
-## 🚀 Live Demo
-
-👉 Live Demo: [Click Here](https://cyberfortify.github.io/snake-game) 
 
 
 ## 🧑‍💻 Author

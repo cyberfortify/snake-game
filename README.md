@@ -69,7 +69,7 @@ snake-game/
  ├─ style.css
  ├─ script.js
  ├─ assets/
- │   └─ screenshot.png
+ │   └─ snakegame.png
 ```
 
 

@@ -70,7 +70,7 @@ snake-game/
 
 ## 🚀 Live Demo
 
-👉 *(Add your GitHub pages link here)*
+👉 Live Demo: [Click Here](https://cyberfortify.github.io/snake-game) 
 
 
 ## 🧑‍💻 Author

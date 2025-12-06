@@ -78,8 +78,8 @@ snake-game/
 **Aditya Vishwakarma**
 Python Developer | Web Developer
 
-🔗 Portfolio: [Portfolio](https://imadityavk.vercel.app)
-🔗 LinkedIn: [LinkedIn](https://linkedin.com/in/imadityavk)
+🔗 [Portfolio](https://imadityavk.vercel.app)
+🔗 [LinkedIn](https://linkedin.com/in/imadityavk)
 
 
 ## ⭐ Like this project?
